@@ -1,6 +1,5 @@
 ---
 import { render } from "astro:content"
-import Comments from "~/components/astro/comments.astro"
 import { langs } from "~/i18n/ui"
 import { getLangFromUrl } from "~/i18n/utils"
 import MainLayout from "~/layouts/main.astro"
@@ -31,7 +30,7 @@ const { Content } = await render(post)
 ---
 
 <MainLayout {...post.data}>
-  <article class="prose w-full max-w-3xl overflow-hidden dark:prose-invert">
+  <article class="prose dark:prose-invert w-full max-w-3xl overflow-hidden">
     <div class="flex flex-col gap-2">
       <h2 class="!my-0 text-3xl font-semibold">{post.data.title}</h2>
       <div class="my-3 text-gray-500 dark:text-white/80">
@@ -41,20 +40,20 @@ const { Content } = await render(post)
 
     <div class="my-6">
       <Content />
-    </div>
-
-    <div class="space-x-3 pb-10 text-sm text-gray-500">
-      {
-        post.data.tags.map((tag: string) => (
-          <a href={`/${lang}/tags/${tag}`} class="no-underline">
-            <p class="inline-block hover:scale-105">#{tag}</p>
-          </a>
-        ))
-      }
+      <div class="mt-10 border-t border-gray-200 pt-6 dark:border-gray-700">
+        <div class="flex flex-wrap gap-6 text-sm text-gray-400">
+          {
+            post.data.tags.map((tag: string) => (
+              <a
+                href={`/${lang}/tags/${tag}`}
+                class="transform text-gray-400 no-underline transition duration-200 ease-in-out hover:scale-105 hover:text-gray-500 dark:hover:text-gray-300"
+              >
+                #{tag}
+              </a>
+            ))
+          }
+        </div>
+      </div>
     </div>
   </article>
-
-  <div class="my-10">
-    <Comments />
-  </div>
 </MainLayout>

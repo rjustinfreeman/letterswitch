@@ -13,7 +13,7 @@ export const ui = {
     "nav.archive": "Archive",
     "nav.about": "About",
     "nav.links": "Links",
-    "blog.latest": "Latest Posts",
+    "blog.latest": "Posts",
     "archive.title": "All Posts",
     "links.title": "My Friends",
     "tag.title": "Tag:",

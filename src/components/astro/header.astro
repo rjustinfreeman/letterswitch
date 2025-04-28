@@ -1,47 +1,50 @@
 ---
 import { Rss } from "lucide-react"
-import { LanguageToggle } from "~/components/react/language-toggle"
+// Removed import for LanguageToggle as it's being deleted
+// import { LanguageToggle } from "~/components/react/language-toggle";
 import { ThemeToggle } from "~/components/react/theme-toggle"
-import { en, zh } from "~/config"
-import { getLangFromUrl } from "~/i18n/utils"
+// Removed imports for i18n config as siteName is hardcoded and language toggle is removed
+// import { en, zh } from "~/config";
+// Removed import for i18n utility
+// import { getLangFromUrl } from "~/i18n/utils";
 
-const lang = getLangFromUrl(Astro.url)
-const config = lang === "zh" ? zh : en
+// Removed i18n variables as they are no longer used in this component
+// const lang = getLangFromUrl(Astro.url);
+// const config = lang === "zh" ? zh : en;
+
+// Define the site title directly in the frontmatter
+const siteTitle = "Letterswitch Publishing"
 ---
 
 <header class="flex h-24 w-full items-center justify-between">
-  <a href="/" aria-label={`${config.siteName}`}>
-    <div class="text-2xl font-semibold">{config.siteName}</div>
+  {/* Link to the homepage */}
+  <a href="/" aria-label={`${siteTitle} Blog`}>
+    {/* Used the hardcoded siteTitle and added the font-raleway class */}
+    <div
+      class="font-raleway font-regular text-2xl"
+      style="font-family: 'Raleway', sans-serif !important;"
+    >
+      the letterswitch blog
+    </div>
   </a>
 
   <div class="flex items-center gap-6">
+    {/* Keep the RSS link unless you want to remove that too */}
     {
-      config.rss && (
+      true && ( // Condition is always true now, but keeps the structure if you wanted to make it conditional later
         <a
-          href={"/" + lang + "/rss.xml"}
+          href={"/rss.xml"}
           target="_blank"
-          aria-label="RSS"
-          title="RSS"
+          aria-label="RSS Feed"
+          title="RSS Feed"
         >
           <Rss />
         </a>
       )
     }
-    {
-      config.social.map((social) => (
-        <a
-          href={social.link}
-          target="_blank"
-          class="hidden md:block"
-          aria-label={social.label}
-          title={social.label}
-        >
-          <social.icon />
-        </a>
-      ))
-    }
 
-    <LanguageToggle client:load />
+    {/* Removed the LanguageToggle component as requested */}
+    {/* Keep the ThemeToggle component */}
     <ThemeToggle client:load />
   </div>
 </header>

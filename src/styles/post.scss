@@ -3,3 +3,20 @@ article {
     margin: 2rem 0 !important;
   }
 }
+/* -----------------------------------------
+   Custom Blocks (Lyrics, Quotes, etc.)
+----------------------------------------- */
+
+.lyrics {
+  font-style: italic;
+  color: #a0a0a0;
+  border-left: 2px solid #ddd;
+  margin: 2rem 0;
+  padding-left: 1rem;
+  line-height: 1.8;
+  white-space: pre-line;
+}
+
+.lyrics:hover {
+  color: #888;
+}

@@ -2,32 +2,25 @@
 const currentYear = new Date().getFullYear()
 ---
 
-<footer class="flex flex-wrap items-center gap-1 py-10">
+<footer
+  class="flex flex-wrap items-center justify-center gap-2 py-10 text-xs text-gray-500 dark:text-gray-400"
+>
   <p>&copy; {currentYear}</p>
-
-  {
-    [
-      {
-        text: "Designed By",
-        link: "https://sunguoqi.com",
-        label: "Guoqi Sun",
-      },
-      {
-        text: "Powered By",
-        link: "https://github.com/sun0225SUN/astro-air",
-        label: "Astro Air",
-      },
-    ].map((item, index) => (
-      <>
-        {index > 0 && <p class="mx-1">|</p>}
-        <p>{item.text}</p>
-        <a
-          href={item.link}
-          class="text-blue-600 transition-colors duration-200 hover:text-blue-800"
-        >
-          {item.label}
-        </a>
-      </>
-    ))
-  }
+  {/* Corrected the syntax on the line below */}
+  <a
+    href="https://www.letterswitchpublishing.com"
+    class="text-gray-500 hover:text-gray-700"
+  >
+    Letterswitch Publishing
+  </a>
+  <p>&bull;</p>
+  <p>Powered by</p>
+  <a href="https://astro.build" class="hover:underline">Astro</a>
+  <p>&amp;</p>
+  <a
+    href="https://www.mainandmerseyhomestore.ca/pages/the-dining-room"
+    class="hover:underline"
+  >
+    Main and Mersey Coffee
+  </a>
 </footer>
