@@ -6,4 +6,13 @@ export default {
     extend: {},
   },
   plugins: [require("@tailwindcss/typography")],
+  theme: {
+    extend: {
+      fontFamily: {
+        raleway: ['"Raleway"', "sans-serif"],
+        crimson: ['"Crimson Pro"', "serif"],
+      },
+    },
+  },
+  plugins: [],
 }
