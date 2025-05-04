@@ -1,3 +1,8 @@
 @import "tailwindcss";
-/* Removed @plugin directive. Ensure the plugin is added in the Tailwind CSS configuration file. */
-/* Define the 'dark' variant in the Tailwind CSS configuration file instead. */
+@plugin "@tailwindcss/typography";
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Custom global styles */
+p {
+  @apply font-lora;
+}
