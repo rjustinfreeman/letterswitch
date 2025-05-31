@@ -10,80 +10,50 @@ tags:
   - philosophy
   - parenting
 ---
-From your very first interactions with them as babies, your kids are learning on the fly how to interact with other human beings. What's acceptable? What's effective?  What are both, and neither? It's a lot of trial and error and conversation and correction when it comes to big toddler emotions.
+I wish I could go back to Jack's.
 
-Through it all, remember your young kids won't be so dependent upon you forever. 
+When I was a kid Dad always took me to Jack's Barber Shop to get my hair cut. Jack was a grizzled old school barber, the sort you could always count on to be unfailingly kind but whom you'd never dream of crossing. By the time of my patronage in the 90's, Jack had been cutting hair for decades, and not much about his shop had changed for the time that had passed - he even had a soda vending machine that dispensed glass bottles. When Dad was feeling charitable he'd dig some change out for me to get one. I had no idea how much I took for granted the satisfaction of gripping those bottle necks and hearing the wet clack of glass as my choice's queued compatriots shifted behind him.
 
-It's easy to extrapolate your child's present level of maturity and understanding into the future. When you're used to something in the day to day, it's hard to avoid subconsciously doing this - I got into "I guess this is my life now" mode when Molly was throwing a fit and envisioned her just sized up as a fourteen year old doing Godzilla stomps through the house and hissing at her brother as she threw a tantrum. And the same goes for James now, as he's taken up a new hobby of building up a head of steam and shoulder checking Molly into the nearest piece of furniture. But the kids of a decade from now are going to have matured every which way and be dealing with all new challenges.
+Since it was the 90's in a small town, unless you were content to shield yourself behind a months-old issue of Motor Trend you were probably going to get drawn into waiting room conversation. Jack was the sort who'd dispense a bit of wisdom when the opportunity was right, but he wasn't the sort to hold court, so conversation was usually fairly organic and depended almost entirely upon the characters who decided to *thwack-ching* the bell on Jack's door that day.
 
-One hopes.
+As you might assume, I was typically a spectator in these conversations. I got a few surface level inquiries from time to time soliciting my name or age or my opinion about how the day was going before their gaze shifted up to Dad where it would largely remain. And so I sat at the periphery while the men around me chatted about national politics, or weather we'd just experienced, or a vehicle parked on the street outside the shop, or weather we were set to experience, or the know-nothings down at city hall. 
 
-At that point in life, their social ecosystems will have increased by an exponent compared to now. In all of those relationships they'll have to navigate developing their own voices - and it won't come by osmosis. We have to keep teaching about productive communication even in the midst of big emotions. Here are three ways in particular we're trying to do this:
+Until the new guy showed up.
 
-## We don't forbid emotions.
+I assume he was new; he at least didn't get hailed upon his arrival by memory. He wasn't cut from the same cloth a lot of Jack's usual clientele were - the farmers, the tradesmen, the retirees. With his business casual outfit and wire-rimmed glasses, he quietly distinguished himself from the others in the shop at a glance. He didn't seem to feel out of place, though; he had a comfort level that suggested he'd grown up locally and come back after college, or that he was the sort who'd be comfortable anywhere. 
 
-We do our best to give the kids the space to express genuine emotions, without trying to minimize or suppress them. They're allowed to be sad, or afraid, or even angry. What they do with those emotions is subject to correction, but the mere act of feeling those particular ways isn't. Our inconvenience or discomfort should not dictate how they are allowed to feel. 
+He struck up a conversation with me that went past the usual perfunctory questions. I wish I could recall more of it, but what I do remember is the feeling of being seen. I was an old enough boy to have a deep craving for a sense of belonging with that group of men. I wanted to be included among conversation around the invisible camp fire in the middle of that barber shop, and this man was extending a hand of invitation simply by asking my opinions about things.
 
-If you catch yourself saying things like, "Stop being angry," "You don't need to feel sad," or "Calm down, there's nothing to be scared of," check yourself. If another adult told you any of those things, how would that sit with you? Personally, I'd land somewhere between put off and pissed off. Keep front of mind that your child is a small person. Emotionally disregulated, ignorant of much, but an entire person in their own right. And people feel.
+And then it came: mention of my spelling skills. I'm assuming this was shortly after my having won the regional spelling bee in the third grade. Yes, for one bright and shining moment in time, I could objectively spell better than any other nine-year-old in southwest Missouri. My efforts to somehow monetize this success continue.
 
-It's what makes us people.
+Of course my boasting had the effect anyone with two ounces of foresight could have anticipated: my being tested with some tricky word or another. The one this gentleman settled on - perhaps after deeming antidisestablishmentarianism a touch out of my reach - was Pennsylvania.
 
-## We care more about momentum than mouth.
+This was it. My chance to shine. I was on the chair by that point, and started my attempt. 
 
-I got a sage bit of wisdom in police academy from a grizzled veteran trainer who came up, as the old timers put it, "in the revolver days." He'd seen and dealt with just about anything you could conceive of on the street, and was teaching a module on deescalating volatile situations. One thing in particular has always stuck with me. Paraphrasing, he said:
+"P-E-N..."
 
-"If you're telling someone to do something, and they're cussin' you up one side and down the other, but they're doing it, you're winning. Don't interrupt them with demands they show you some respect, because there ain't none to show, and as soon as you open your mouth they're gonna stop and have the fight you're picking."
+Okay, first swerve, two N's, you've got this...
 
-The same can be said for toddlers. Now, none of this is to say you shouldn't have conversations about tone of voice and speaking respectfully to people. But if your toddler is picking up her toys through protest, or whining while they get dressed, or dramatically sighing while they brush their teeth, just let them. You're winning. Don't let their not doing those things with a sweet smile and fluttering eyelashes get in the way of that.
+"N-S..." 
 
-## We don't diminish or rush emotional processing.
+Oh dear, here's the tricky bit. It sounds like it should be an 'I,' but I remember from the map it should be a...
 
-Everything's a bigger deal to the kids. It doesn't matter how big a deal something is to me, or how big a deal I think it ought to be to them. They're going to have their own reactions to things, and work through their emotions at their own rate. 
+"Y-L-V..."
 
-Emotions are like river rapids to them. They don't have control over them, can't fathom their depths, and don't know where the hazards are. If you just try to stifle them by telling them to stop feeling a particular way, you'll have the same result as if you tried stopping a canoe dead in its track in rapids: You'll dump them in the water and they'll keep going downriver anyway, now even more upset and with fewer means of control.
+Vain, I know how to spell vain...
 
-We try to get in the boat with them and guide them downriver instead. This will take time and cause frustration. We try to do it anyway. Now, I understand that you can't take an extended amount of time to process every upset - when James decided once to boycott walking in the middle of a crosswalk, I had to throw him over my shoulder and deal with the emotional fallout on the far sidewalk. But if you've got the margin, use it.
+"A-I-N-A." 
 
-Let's consider an example:
+Wait. Vain-ah? That doesn't seem right. Oh no!
 
-You're going out for an errand with your toddler. It rained recently, so you ask him to wear his rain boots. He says no, that he wants to wear his canvas shoes instead. 
+But the deed was done. I'd misspelled it.
 
-It's clear toddler emotions are about to turn this into A Thing. 
+The man was gracious. He assured me there was an even chance he'd misspell it himself if the task was foisted on him like it was me. And yes, I beat myself up in the moment. But the perspective of time has taught me something: 
 
-Let's put a pin in the situation here and explore one path:
+He gave me an opportunity. 
 
-You say, "Absolutely not, it's wet outside and the mud will ruin your shoes. I don't care if you don't want to, put your rain boots on right now...don't get mad about this." He ignores this, of course, and throws a tantrum. You escalate in turn, because you can't bear to reward this, and now it's a meltdown. 
+He patted the log at the camp fire, and it made such an impression on me that I recall it with fondness over 30 years later. It's easy to dismiss the thought life of kids as being entirely foreign to the "real world," and to be fair, sometimes it is. I regularly mystified the elders around me with my musings and imaginative scenarios. However, there comes a point, assuredly at different times for different kids, when they start feeling a longing to belong. It takes discernment to see, but if you can speak into that space at the right time, there are dividends to be had in opportunities to mentor, shape, and guide their thoughts and their steps.
 
-Not to take his side here, but you're partially to blame. You tried to stop a canoe, with predictable results.
+I lost my way on the way to Pennsylvania. but I found a place at the fire.
 
-Now, let's go back to our pin and get in the boat with him instead:
-
-"I hear what you're saying, buddy. You're upset because you want the shoes instead." 
-
-Identifying the emotion puts a crisp border around it and makes it less overwhelming for both of you. Kids can pick up when they're being listened to rather than dictated to earlier than we give them credit for. If your kid doesn't think you hear them, they're going to escalate until they feel heard, one way or the other.
-
-For you, it contains their response to this particular situation in your mind. This is not some meta power struggle. It's not Zeus challenging the supremacy of Kronos. I'm sorry to inform you that the boy isn't really factoring you into the equation, which is no more complicated than (cool shoes > uncool boots). There is no subtext here.
-
-"Why do you want the shoes and not your boots?"
-
-It's easy to fall into the trap of feeling like our kids are just maliciously making decisions based on the amount of inconvenience it causes for us. Let's not write normal toddlers off as psychopaths though - there's usually some reasoning behind their desires, however arbitrary or tortured. Figuring that out can help you pick your way between boulders in the river.
-
-"Oh, so you think the shoes look cooler than the boots. Well, you do have to wear the boots because of the mud...but I tell you what. What if, just this one time, I let you put a couple of cool stickers on your boots?"
-
-Toddlers crave control and accomplishment. Giving them a win which costs you little to nothing is a good way to dig a boat paddle in and redirect the both of you toward calmer waters. Your little one feels heard, got to express disappointment without getting shut down, and thinks he got one over on you with the stickers. You got what you wanted all along: A happy kid wearing rainboots. 
-
-Did it cost you a spot of time versus dropping a ban hammer? Sure. But a hammer drop is never the end of it. Even if you get acquiescence, that energy doesn't magically dissipate - emotional energy is just like physical energy in that it can't be destroyed, only changed in form. It'll present itself somehow, some way, someday. And I guarantee the time you'll have saved not trying to stuff an enraged toddler into a car seat far outstrips the time it took to prevent it. 
-
-I get it, it's seldom this cut and dry. But it's important to keep situations like this in a proper frame: It's not a "fight." You're not a peer combatant, you're a mentor. Dealing with big toddler emotions is an opportunity for both of you to grow and mature, in your own ways, together.
-
-## We try to model emotional regulation ourselves.
-
-Toddlers are sponges. They're constantly looking for cues on how to respond to particular situations. It's certainly true for our kids. An extended family member, who shall remain nameless in an effort to protect the guilty, has an occasional tendency to express frustration by saying, "Oh, for God's sake!"
-
-Scene cut to little Molly once upon a time suffering a building block architectural failure: "Fugawsake!"
-
-It's not fair to scold your toddler for throwing tantrums or expressing frustration if you're swearing, muttering, and slamming things around when you get upset. Talk all you want, it's not going to override your actions. Model the behavior you want from your kids - it's the only way they're going to learn. 
-
-
-
-This parenting journey with big emotions is less about wielding a paddle like a weapon to beat the rapids into submission, and more about learning to navigate them alongside your little one. It takes practice, patience, and plenty of messy moments, but by giving them the space to feel, prioritizing forward momentum over perfect execution, riding the waves with them, and showing them how you handle your own storms, you're equipping them with the vital skills they'll need as those rivers of emotion inevitably grow wider and faster in the years ahead. It's tough work, no doubt, but investing in their emotional fluency now is one of the greatest gifts you can give them – and yourself – for the journey downstream.
+And that was exactly where I wanted to be.
