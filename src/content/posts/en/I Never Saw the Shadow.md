@@ -10,7 +10,7 @@ tags:
   - family
   - childhood
 ---
-After some reflection following the passing of my Grandma Doris Sympson, I returned to a piece I originally wrote twenty years ago with some fresh thoughts about the influence she shared with Grandpa Ian upon my life. I humbly submit it with gratitude to her memory, which will forever be a blessing. Hers was a quietly creative life well-lived: ever more a rarity.
+After some reflection following the passing of my Grandma [Doris Sympson](https://www.robertsondrago.com/doris-mae-sympson/), I returned to a piece I originally wrote twenty years ago with some fresh thoughts about the influence she shared with Grandpa Ian upon my life. I humbly submit it with gratitude to her memory, which will forever be a blessing. Hers was a quietly creative life well-lived: ever more a rarity.
 
 ***
 
