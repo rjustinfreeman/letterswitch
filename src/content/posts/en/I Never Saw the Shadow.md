@@ -20,7 +20,7 @@ People often talk about a song or scent taking them back, but there are certain 
 
 Like the ridges on a black walnut.
 
-They take me back to a childhood Saturday spent tirelessly picking up hundreds of pounds of walnuts, my progress marked by the thwongda thwongda of walnuts drumming into the bottom of a freshly emptied bucket and woven fescue sacks slowly swelling with their lumpy burdens. Evening found me in the passenger side of a 1967 Chevy step side pickup outside Crossroads Store, slumped with exhaustion against the rough upholstery of the seat cover. Between my fingers blackened with overripened walnut hulls slid the grain of a well-worn fifty dollar bill. The war-weary walnut huller dutifully rattled on in the background while I marveled at my newfound wealth in the summer swelter. 
+They take me back to a childhood Saturday spent tirelessly picking up hundreds of pounds of walnuts, my progress marked by the *thwongda thwongda* of walnuts drumming into the bottom of a freshly emptied bucket and woven fescue sacks slowly swelling with their lumpy burdens. Evening found me in the passenger side of a 1967 Chevy step side pickup outside Crossroads Store, slumped with exhaustion against the rough upholstery of the seat cover. Between my fingers blackened with overripened walnut hulls slid the grain of a well-worn fifty dollar bill. The war-weary walnut huller dutifully rattled on in the background while I marveled at my newfound wealth in the summer swelter. 
 
 Or the rough, hand-engraved letters on the Swiss Army knife my Grandpa Don gifted me as a boy.
 
